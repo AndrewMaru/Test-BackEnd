@@ -1,0 +1,6 @@
+@rootURL = http://localhost:5073
+
+GET {{rootURL}}/api/bank
+Accept: application/json
+
+###

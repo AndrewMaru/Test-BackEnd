@@ -1,0 +1,2 @@
+SELECT * FROM Banks
+SELECT * FROM Statuses

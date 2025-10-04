@@ -1,0 +1,8 @@
+SET IDENTITY_INSERT Statuses ON;
+
+INSERT INTO Statuses(Id, Name)
+VALUES
+(0, 'SUCCESS'),
+(1, 'FAILED');
+
+SET IDENTITY_INSERT Statuses OFF;
